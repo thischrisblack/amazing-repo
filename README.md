@@ -1,3 +1,2 @@
 # amazing-repo
-An amazing repo. Such good stuff.
-
+An amazing repo. Such good stuff. Just amazing.
