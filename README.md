@@ -1,2 +1,2 @@
 # amazing-repo
-An amazing repo.
+An amazing repo. Such good stuff.
