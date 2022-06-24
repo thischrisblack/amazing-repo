@@ -1,3 +1,3 @@
 # amazing-repo
 
-An amazing repo. Marvelous. So good.
+An amazing repo. Marvelous. So good. YAY!
